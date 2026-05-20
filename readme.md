@@ -1,4 +1,4 @@
-# 🏗️ Homelab Infrastructure Portfolio
+# 🏗️ Homelab Infrastructure 
 
 Infra complète montée de zéro à des fins d'apprentissage DevOps/Infrastructure.
 Chaque composant est documenté, chaque choix technique est justifié.
